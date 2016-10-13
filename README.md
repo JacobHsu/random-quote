@@ -21,6 +21,13 @@ Show random quotes using "Random Famous Quotes" API
 [Window open()](http://www.w3schools.com/jsref/met_win_open.asp) Method  
 [encodeURIComponent()](http://www.w3schools.com/jsref/jsref_encodeuricomponent.asp) Function
 
+### CSS toolkit
+
+[Font Awesome](http://fontawesome.io/)  
+
+```
+<link rel='stylesheet prefetch' href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+```
 
 ## Tool
 
