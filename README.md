@@ -13,8 +13,12 @@ Show random quotes using "Random Famous Quotes" API
 ### jQuery
 
 [cdnjs jquery](https://cdnjs.com/libraries/jquery/)  
+ [jQuery.ajax()](http://api.jquery.com/jquery.ajax/)  
+
+### jQuery UI 
+
 [cdnjs jqueryui](https://cdnjs.com/libraries/jqueryui)  
-[jQuery.ajax()](http://api.jquery.com/jquery.ajax/)  
+[Color Animation](https://jqueryui.com/animate/)
 
 ### JavaScript
 
