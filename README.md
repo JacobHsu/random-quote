@@ -23,6 +23,7 @@ Show random quotes using "Random Famous Quotes" API
 
 ### CSS toolkit
 
+[Google Fonts](https://fonts.google.com/)  
 [Font Awesome](http://fontawesome.io/)  
 
 ```
