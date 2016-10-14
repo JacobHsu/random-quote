@@ -1,4 +1,3 @@
-var colors = ['#16a085', '#27ae60', '#2c3e50', '#f39c12', '#e74c3c', '#9b59b6', '#FB6964', '#342224', "#472E32", "#BDBB99", "#77B1A9", "#73A857"];
 var currentQuote = '', currentAuthor = '';
 
 function inIframe() { 
@@ -47,13 +46,15 @@ function getQuote() {
           $('#author').html(r.author);
         });
 
-      var color = Math.floor(Math.random() * colors.length);
+
+      var randomColor = '#'+Math.floor(Math.random()*16777215).toString(16);
+
       $("html body").animate({
-        backgroundColor: colors[color],
-        color: colors[color]
+        backgroundColor: randomColor,
+        color: randomColor
       }, 1000);
       $(".button").animate({
-        backgroundColor: colors[color]
+        backgroundColor: randomColor
       }, 1000);
     }
   });

@@ -38,3 +38,7 @@ Show random quotes using "Random Famous Quotes" API
 
 [Sublime Text 3 ](https://www.sublimetext.com/3)  
 [MarkdownPad](http://markdownpad.com/download.html) 
+
+## References
+
+* [Random Hex Color Code Generator in JavaScript](https://www.paulirish.com/2009/random-hex-color-code-snippets/)
